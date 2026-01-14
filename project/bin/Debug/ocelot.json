@@ -1,0 +1,93 @@
+{
+  "Routes": [
+    {
+      //customer
+      "UpstreamPathTemplate": "/api/customer",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "customermicroservice",
+          "Port": 8080
+        }
+      ],
+      "DownstreamPathTemplate": "/api/customer",
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1m",
+        "PeriodTimespan": 60,
+        "Limit": 1
+      },
+      "RouteClaimsRequirement": {
+        "Role": "Admin"
+      }
+    },
+    {
+      //customer by id
+      "UpstreamPathTemplate": "/api/customer/{id}",
+      "UpstreamHttpMethod": [ "Get", "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "customermicroservice",
+          "Port": 8080
+        }
+      ],
+      "DownstreamPathTemplate": "/api/customer/{id}",
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1m",
+        "PeriodTimespan": 60,
+        "Limit": 1
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      //product
+      "UpstreamPathTemplate": "/api/product",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productAPI",
+          "Port": 8080
+        }
+      ],
+      "DownstreamPathTemplate": "/api/product"
+    },
+    {
+      //product by id
+      "UpstreamPathTemplate": "/api/product/{id}",
+      "UpstreamHttpMethod": [ "Get", "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productAPI",
+          "Port": 8080
+        }
+      ],
+      "DownstreamPathTemplate": "/api/product/{id}"
+    },
+    {
+      //Authentication
+      "UpstreamPathTemplate": "/api/Account",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "AuthenticationAPI",
+          "Port": 8080
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Account"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:8002"
+  }
+}

@@ -1,0 +1,48 @@
+name: dockercompose13330161925937637164
+services:
+  customermicroservice:
+    build:
+      context: C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\CustomerMicroservice
+      dockerfile: CustomerMicroservice/Dockerfile
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      EShop: Server=sqlserver,1433;Database=master;User Id=sa;Password=YourStrongPassword123!;Encrypt=False;TrustServerCertificate=True
+    image: customermicroservice
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  sqlserver:
+    container_name: sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: YourStrongPassword123!
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - /opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P 'YourStrongPassword123!' -C -Q 'SELECT 1' || exit 1
+      timeout: 5s
+      interval: 10s
+      retries: 15
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "14330"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose13330161925937637164_default

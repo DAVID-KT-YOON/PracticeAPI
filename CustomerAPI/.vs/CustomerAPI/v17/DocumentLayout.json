@@ -1,54 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED0F551E-6A25-4630-88EC-2CBACA95DCD9}|Core\\Core.csproj|c:\\users\\yoonk\\downloads\\customerapi\\core\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0F551E-6A25-4630-88EC-2CBACA95DCD9}|Core\\Core.csproj|solutionrelative:core\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DFF37E-06D6-4E80-BEC1-CAA81326302E}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customerapi\\customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7DFF37E-06D6-4E80-BEC1-CAA81326302E}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA10C2B-9546-4CEF-A37C-42AAB11474EE}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\yoonk\\downloads\\customerapi\\customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA10C2B-9546-4CEF-A37C-42AAB11474EE}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DFF37E-06D6-4E80-BEC1-CAA81326302E}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customerapi\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DFF37E-06D6-4E80-BEC1-CAA81326302E}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0F551E-6A25-4630-88EC-2CBACA95DCD9}|Core\\Core.csproj|c:\\users\\yoonk\\downloads\\customerapi\\core\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0F551E-6A25-4630-88EC-2CBACA95DCD9}|Core\\Core.csproj|solutionrelative:core\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6775AB5-8748-FFBE-86A0-1BB54F6E8197}|..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.infrastructure\\repository\\customerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA10C2B-9546-4CEF-A37C-42AAB11474EE}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\yoonk\\downloads\\customerapi\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA10C2B-9546-4CEF-A37C-42AAB11474EE}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6775AB5-8748-FFBE-86A0-1BB54F6E8197}|..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90DDF83-1715-466A-91E5-6FC8F1CDD5B7}|Infrastructure\\Infrastructure.csproj|c:\\users\\yoonk\\downloads\\customerapi\\infrastructure\\repository\\customerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90DDF83-1715-466A-91E5-6FC8F1CDD5B7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\customerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{132C972C-69E6-8B89-A6FD-B352F91EF1CA}|..\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.core\\contract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0F551E-6A25-4630-88EC-2CBACA95DCD9}|Core\\Core.csproj|c:\\users\\yoonk\\downloads\\customerapi\\core\\contract\\icustomerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0F551E-6A25-4630-88EC-2CBACA95DCD9}|Core\\Core.csproj|solutionrelative:core\\contract\\icustomerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{132C972C-69E6-8B89-A6FD-B352F91EF1CA}|..\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.core\\contract\\icustomerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90DDF83-1715-466A-91E5-6FC8F1CDD5B7}|Infrastructure\\Infrastructure.csproj|c:\\users\\yoonk\\downloads\\customerapi\\infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90DDF83-1715-466A-91E5-6FC8F1CDD5B7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customerapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0F551E-6A25-4630-88EC-2CBACA95DCD9}|Core\\Core.csproj|c:\\users\\yoonk\\downloads\\customerapi\\core\\contract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0F551E-6A25-4630-88EC-2CBACA95DCD9}|Core\\Core.csproj|solutionrelative:core\\contract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{132C972C-69E6-8B89-A6FD-B352F91EF1CA}|..\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.core\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Migrations\\20251208235603_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251208235603_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{132C972C-69E6-8B89-A6FD-B352F91EF1CA}|..\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.core\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA10C2B-9546-4CEF-A37C-42AAB11474EE}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\yoonk\\downloads\\customerapi\\customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7DA10C2B-9546-4CEF-A37C-42AAB11474EE}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F6775AB5-8748-FFBE-86A0-1BB54F6E8197}|..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.infrastructure\\data\\eshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA10C2B-9546-4CEF-A37C-42AAB11474EE}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\yoonk\\downloads\\customerapi\\customerapi\\customerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{7DA10C2B-9546-4CEF-A37C-42AAB11474EE}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\customerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{F6775AB5-8748-FFBE-86A0-1BB54F6E8197}|..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.infrastructure\\data\\eshopdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90DDF83-1715-466A-91E5-6FC8F1CDD5B7}|Infrastructure\\Infrastructure.csproj|c:\\users\\yoonk\\downloads\\customerapi\\infrastructure\\data\\eshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D90DDF83-1715-466A-91E5-6FC8F1CDD5B7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\eshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customerapi\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132C972C-69E6-8B89-A6FD-B352F91EF1CA}|..\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\project\\customermicroservice\\customerapi.core\\customerapi.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,163 +53,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\CustomerAPI\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "CustomerAPI\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\CustomerAPI\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "CustomerAPI\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA0AAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\CustomerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\CustomerAPI\\Program.cs",
+              "RelativeToolTip": "CustomerAPI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:07:23.002Z",
+              "WhenOpened": "2025-12-25T01:09:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\Contract\\IRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\Contract\\IRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\Contract\\IRepositoryAsync.cs",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\Contract\\IRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:12:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:15:24.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:16:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\CustomerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\CustomerAPI\\appsettings.json",
+              "RelativeToolTip": "CustomerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T01:23:04.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ICustomerRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Core\\Contract\\ICustomerRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "Core\\Contract\\ICustomerRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Core\\Contract\\ICustomerRepositoryAsync.cs",
-              "RelativeToolTip": "Core\\Contract\\ICustomerRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\Contract\\ICustomerRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\Contract\\ICustomerRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\Contract\\ICustomerRepositoryAsync.cs",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\Contract\\ICustomerRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:04:37.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\CustomerAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CustomerAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\CustomerAPI\\Program.cs",
-              "RelativeToolTip": "CustomerAPI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:27:26.073Z",
+              "WhenOpened": "2025-12-25T01:11:43.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BaseRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Repository\\BaseRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BaseRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Repository\\BaseRepositoryAsync.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\BaseRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:59:53.301Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-25T01:16:54.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Core\\Contract\\IRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "Core\\Contract\\IRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Core\\Contract\\IRepositoryAsync.cs",
-              "RelativeToolTip": "Core\\Contract\\IRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\Entity\\Address.cs",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\Entity\\Address.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\Entity\\Address.cs",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\Entity\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:58:05.307Z",
+              "WhenOpened": "2025-12-25T01:13:09.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20251208235603_Init.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Migrations\\20251208235603_Init.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251208235603_Init.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Migrations\\20251208235603_Init.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20251208235603_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\Entity\\Customer.cs",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\Entity\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:56:04.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Core\\Entity\\Address.cs",
-              "RelativeDocumentMoniker": "Core\\Entity\\Address.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Core\\Entity\\Address.cs",
-              "RelativeToolTip": "Core\\Entity\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:27:01.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:05:13.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomerAPI.http",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\CustomerAPI\\CustomerAPI.http",
-              "RelativeDocumentMoniker": "CustomerAPI\\CustomerAPI.http",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\CustomerAPI\\CustomerAPI.http",
-              "RelativeToolTip": "CustomerAPI\\CustomerAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-08T23:47:17.15Z",
+              "WhenOpened": "2025-12-25T01:13:10.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\CustomerAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "CustomerAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\CustomerAPI\\appsettings.json",
-              "RelativeToolTip": "CustomerAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-08T23:33:47.135Z",
+              "Title": "EShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Data\\EShopDbContext.cs",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Data\\EShopDbContext.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Data\\EShopDbContext.cs",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Data\\EShopDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:08:50.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Core\\Entity\\Customer.cs",
-              "RelativeDocumentMoniker": "Core\\Entity\\Customer.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Core\\Entity\\Customer.cs",
-              "RelativeToolTip": "Core\\Entity\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "EShopDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Data\\EShopDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Data\\EShopDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Data\\EShopDbContextFactory.cs",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Infrastructure\\Data\\EShopDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:19:29.808Z",
+              "WhenOpened": "2025-12-25T01:08:52.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "EShopDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Data\\EShopDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\EShopDbContext.cs",
-              "ToolTip": "C:\\Users\\yoonk\\Downloads\\CustomerAPI\\Infrastructure\\Data\\EShopDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\EShopDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:16:08.958Z",
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerAPI\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:16:46.113Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerAPI.Core",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj",
+              "RelativeDocumentMoniker": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj",
+              "RelativeToolTip": "..\\project\\CustomerMicroservice\\CustomerAPI.Core\\CustomerAPI.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T01:10:57.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

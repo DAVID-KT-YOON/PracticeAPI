@@ -1,4 +1,7 @@
-using Infrastructure.Data;
+using CustomerAPI.Core.Contract;
+using CustomerAPI.Infrastructure.Data;
+using CustomerAPI.Infrastructure.Data;
+using CustomerAPI.Infrastructure.Repository;
 using Microsoft.EntityFrameworkCore;
 
 namespace CustomerAPI
@@ -15,12 +18,16 @@ namespace CustomerAPI
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.Services.AddDbContext<EShopDbContext>(
-                options =>
-                {
-                    options.UseSqlServer(builder.Configuration.GetConnectionString("EShopDb"));
-                });
+            builder.Services.AddScoped<ICustomerRepositoryAsync, CustomerRepositoryAsync>();
+            var connectionString =
+    Environment.GetEnvironmentVariable("EShop")
+    ?? builder.Configuration.GetConnectionString("EShopDb");
+
+            builder.Services.AddDbContext<EShopDbContext>(options =>
+                options.UseSqlServer(connectionString));
+
             var app = builder.Build();
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

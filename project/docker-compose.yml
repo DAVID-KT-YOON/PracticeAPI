@@ -1,0 +1,80 @@
+services:
+  rabbitmq:
+    image: rabbitmq:4-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"     # AMQP (optional for host; required if OrderAPI runs on host)
+      - "15672:15672"   # Management UI (required for browser access)
+  inventoryapi:
+    image: ${DOCKER_REGISTRY-}inventoryapi
+    build:
+      context: .
+      dockerfile: InventoryAPI/Dockerfile
+    ports:
+    - '65124:8080'
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=YourStrongPassword123!
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P \"YourStrongPassword123!\" -Q \"SELECT 1\" -C || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 30s
+
+  customermicroservice:
+    image: ${DOCKER_REGISTRY-}customermicroservice
+    build:
+      context: .
+      dockerfile: CustomerMicroservice/CustomerMicroservice/Dockerfile
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+    environment:
+      - EShop=Server=sqlserver,1433;Database=EShopDb;User Id=sa;Password=YourStrongPassword123!;Encrypt=False;TrustServerCertificate=True
+
+  productapi:
+    image: ${DOCKER_REGISTRY-}productapi
+    build:
+      context: .
+      dockerfile: ProductAPI/Dockerfile
+
+  apigateway:
+    image: ${DOCKER_REGISTRY-}apigateway
+    build:
+      context: .
+      dockerfile: Apigateway/Dockerfile
+    ports:
+    - '8002:8080'
+
+  authenticationapi:
+    image: ${DOCKER_REGISTRY-}authenticationapi
+    build:
+      context: .
+      dockerfile: AuthenticationAPI/Dockerfile
+
+  orderapi:
+    image: ${DOCKER_REGISTRY-}orderapi
+    build:
+      context: .
+      dockerfile: OrderAPI/Dockerfile
+
+volumes:
+  sqlserver_data:
+
+
+
+
+
+
+
+
+

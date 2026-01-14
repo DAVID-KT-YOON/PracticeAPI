@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\core\\contract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|solutionrelative:core\\contract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\customermicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|solutionrelative:customermicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\customermicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|solutionrelative:customermicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\customermicroservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|solutionrelative:customermicroservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\baserepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\customermicroservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|solutionrelative:customermicroservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\core\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|solutionrelative:core\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\core\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|solutionrelative:core\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\infrastructure\\repository\\customerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\customerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\core\\contract\\icustomerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|solutionrelative:core\\contract\\icustomerrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\infrastructure\\data\\eshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\eshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6F84202-486E-4123-BD05-5B0B6D31E99F}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\customermicroservice\\customermicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B4AF506-5F9D-437D-938C-1F6F914BBF76}|CustomerMicroservice\\CustomerMicroservice.csproj|solutionrelative:customermicroservice\\customermicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\infrastructure\\migrations\\20251225041236_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20251225041236_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|c:\\users\\yoonk\\onedrive - george mason university - o365 production\\desktop\\git\\customermicroservice\\infrastructure\\migrations\\20251225014124_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8F804A-88D4-4A70-BF2F-70FE1DE1D2E5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20251225014124_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Contract\\IRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Core\\Contract\\IRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Contract\\IRepositoryAsync.cs",
+              "RelativeToolTip": "Core\\Contract\\IRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:04:05.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\appsettings.json",
+              "RelativeToolTip": "CustomerMicroservice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T01:37:29.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\Program.cs",
+              "RelativeToolTip": "CustomerMicroservice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:37:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\Dockerfile",
+              "RelativeDocumentMoniker": "CustomerMicroservice\\Dockerfile",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\Dockerfile",
+              "RelativeToolTip": "CustomerMicroservice\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T04:21:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-25T04:18:43.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\BaseRepositoryAsync.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:04:55.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerMicroservice\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerMicroservice\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:07:59.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T04:18:33.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Contract\\ICustomerRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Core\\Contract\\ICustomerRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Contract\\ICustomerRepositoryAsync.cs",
+              "RelativeToolTip": "Core\\Contract\\ICustomerRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:03:27.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "Core\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Entity\\Customer.cs",
+              "RelativeToolTip": "Core\\Entity\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:36:21.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251225041236_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Migrations\\20251225041236_Init2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251225041236_Init2.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Migrations\\20251225041236_Init2.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251225041236_Init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:12:36.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Entity\\Address.cs",
+              "RelativeDocumentMoniker": "Core\\Entity\\Address.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Entity\\Address.cs",
+              "RelativeToolTip": "Core\\Entity\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:36:15.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\CustomerRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:06:20.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T01:35:51.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251225014124_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Migrations\\20251225014124_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251225014124_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Migrations\\20251225014124_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251225014124_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:41:24.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerMicroservice.csproj",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\CustomerMicroservice.csproj",
+              "RelativeDocumentMoniker": "CustomerMicroservice\\CustomerMicroservice.csproj",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\CustomerMicroservice\\CustomerMicroservice.csproj",
+              "RelativeToolTip": "CustomerMicroservice\\CustomerMicroservice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T01:35:31.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Data\\EShopDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\EShopDbContext.cs",
+              "ToolTip": "C:\\Users\\yoonk\\OneDrive - George Mason University - O365 Production\\Desktop\\git\\CustomerMicroservice\\Infrastructure\\Data\\EShopDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\EShopDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:34:03.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

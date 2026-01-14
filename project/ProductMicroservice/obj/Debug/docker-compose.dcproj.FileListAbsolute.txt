@@ -1,0 +1,15 @@
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\ProductMicroservice.deps.json
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\ProductMicroservice.runtimeconfig.json
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\appsettings.Development.json
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\appsettings.json
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\ProductMicroservice.staticwebassets.endpoints.json
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\ProductMicroservice.exe
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\ProductMicroservice.dll
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\bin\Debug\ProductMicroservice.pdb
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\practiceAPI\ProductMicroservice\ProductMicroservice\obj\Debug\docker-c.35A3FFBA.Up2Date

@@ -1,0 +1,55 @@
+name: dockercompose1646016784618047152
+services:
+  inventoryapi:
+    build:
+      context: C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\project
+      dockerfile: InventoryAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: inventoryapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "65124"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  orderapi:
+    build:
+      context: C:\Users\yoonk\OneDrive - George Mason University - O365 Production\Desktop\git\project
+      dockerfile: OrderAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: orderapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "65123"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:4-management
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5672
+        published: "5672"
+        protocol: tcp
+      - mode: ingress
+        target: 15672
+        published: "15672"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose1646016784618047152_default
